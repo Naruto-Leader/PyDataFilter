@@ -24,9 +24,9 @@ def test_can_load_list_to_df():
     Tests that the function to load a list of columns from 
     the database to a dataframe works
 
-    Args:
+    Args:    
     None
-
+       
     Returns:
     None
     """
